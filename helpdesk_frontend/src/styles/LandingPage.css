@@ -1,0 +1,59 @@
+.landing-container {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f7fa;
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.hero-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px 10%;
+  background: linear-gradient(to right, #4a90e2, #50c9c3);
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  color: white;
+}
+
+.hero-text h1 {
+  font-size: 3.5rem;
+  margin-bottom: 20px;
+}
+
+.hero-text p {
+  font-size: 1.2rem;
+  margin-bottom: 30px;
+  line-height: 1.5;
+}
+
+.hero-btn {
+  background-color: white;
+  color: #4a90e2;
+  padding: 15px 30px;
+  border-radius: 30px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.hero-btn:hover {
+  background-color: #e0f2ff;
+}
+
+.hero-image img {
+  width: 400px;
+  max-width: 100%;
+  border-radius: 20px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+/* Floating Helpdesk Button */
+.helpdesk-container {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  z-index: 1000;
+}

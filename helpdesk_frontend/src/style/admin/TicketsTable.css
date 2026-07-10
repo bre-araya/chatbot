@@ -1,0 +1,103 @@
+.tickets-container {
+  padding: 1rem;
+  font-family: Arial, sans-serif;
+}
+
+.table-wrapper {
+  max-height: 450px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.tickets-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tickets-table th,
+.tickets-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.tickets-table th {
+  background-color: #f2f2f2;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+.tickets-table tr:hover {
+  background-color: #f1f1f1;
+  cursor: pointer;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 6px;
+  width: 500px;
+  max-width: 90%;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+}
+
+.modal-buttons {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: flex-end;
+  margin-top: 1rem;
+}
+
+.answer-textarea {
+  width: 100%;
+  min-height: 100px;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+  font-family: Arial, sans-serif;
+}
+
+.answer-textarea:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* New styles for assignment as buttons */
+.assignment-button {
+  background-color: #60b7d2;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 6px 12px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+  text-transform: capitalize;
+}
+
+.assignment-button:hover {
+  background-color: #4338ca;
+}
+
+.assignment-button:focus {
+  outline: 2px solid #667eea;
+  outline-offset: 2px;
+}

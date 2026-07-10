@@ -1,0 +1,621 @@
+Question,Answer,Category,Sub-category,Priority,Tags,Related Questions
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Ride Booking,Low,"booking,ride,schedule",How to book a ride?
+What payment methods are accepted?,"We accept credit cards, debit cards, and mobile wallets like Apple Pay and Google Pay.",Payment,Payment Methods,Low,"payment,refund,wallet,credit card",How to add a payment method?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Safety,Low,"driver,vehicle,delay,safety",How to report a safety issue?
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Login,High,"account,password,login,profile",How to reset my password?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Report Issue,High,"support,report,feedback,help",How to report a problem?
+How to fix login issues?,Fix login issues by clearing app cache or reinstalling the app.,App Issues,Login Issues,Low,"app,crash,bug,notification",Why does my app crash?
+How to use promo codes?,Apply promo codes at checkout to get discounts on your rides.,Promotions,Promo Codes,Low,"promo,offer,discount,referral",How to use promo codes?
+Is it possible to schedule a ride in advance?,"Yes, you can schedule a ride in advance from the 'Schedule' tab.",Booking,Change Pickup,Low,"booking,ride,schedule",How to book a ride?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Refunds,Low,"payment,refund,wallet,credit card",How to add a payment method?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Vehicle,High,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Password,Low,"account,password,login,profile",How to update profile info?
+What are the support hours?,Support is available from 8 AM to 10 PM daily.,Support,Report Issue,Low,"support,report,feedback,help",How to report a problem?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,Login Issues,Low,"app,crash,bug,notification",How to enable notifications?
+How to use promo codes?,Apply promo codes at checkout to get discounts on your rides.,Promotions,Referral,Medium,"promo,offer,discount,referral",How to use promo codes?
+Is it possible to schedule a ride in advance?,"Yes, you can schedule a ride in advance from the 'Schedule' tab.",Booking,Ride Booking,High,"booking,ride,schedule",How to change pickup location?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Add Payment Method,High,"payment,refund,wallet,credit card",What payment methods do you accept?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Safety,High,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Profile,Medium,"account,password,login,profile",How to reset my password?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Feedback,High,"support,report,feedback,help",How to contact support?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,App Crashes,Medium,"app,crash,bug,notification",How to enable notifications?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Offers,High,"promo,offer,discount,referral",What offers are available?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Ride Booking,High,"booking,ride,schedule",How to book a ride?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Refunds,Low,"payment,refund,wallet,credit card",How to get a refund?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Driver,Low,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Login,High,"account,password,login,profile",How to update profile info?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Contact Support,Medium,"support,report,feedback,help",How to contact support?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,App Crashes,High,"app,crash,bug,notification",How to fix login issues?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Offers,High,"promo,offer,discount,referral",How to refer friends?
+How do I book a ride?,"To book a ride, open the app, enter your destination, and tap 'Book'.",Booking,Change Pickup,Low,"booking,ride,schedule",How to change pickup location?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Add Payment Method,Low,"payment,refund,wallet,credit card",What payment methods do you accept?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Safety,Low,"driver,vehicle,delay,safety",How to report a safety issue?
+What to do if I cannot login?,"If you cannot login, try resetting your password or contact support.",Account,Login,High,"account,password,login,profile",How to update profile info?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Feedback,Medium,"support,report,feedback,help",Where to send feedback?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,Notifications,Low,"app,crash,bug,notification",How to enable notifications?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Referral,High,"promo,offer,discount,referral",How to use promo codes?
+Is it possible to schedule a ride in advance?,"Yes, you can schedule a ride in advance from the 'Schedule' tab.",Booking,Ride Booking,Medium,"booking,ride,schedule",How to book a ride?
+What payment methods are accepted?,"We accept credit cards, debit cards, and mobile wallets like Apple Pay and Google Pay.",Payment,Payment Methods,Low,"payment,refund,wallet,credit card",How to add a payment method?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Driver,High,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Login,High,"account,password,login,profile",How to change my email?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Report Issue,Medium,"support,report,feedback,help",How to report a problem?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,Notifications,High,"app,crash,bug,notification",How to fix login issues?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Offers,Medium,"promo,offer,discount,referral",What offers are available?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Cancel Ride,Medium,"booking,ride,schedule",How to change pickup location?
+How can I add a payment method?,You can add a payment method in the 'Payments' section of the app settings.,Payment,Refunds,High,"payment,refund,wallet,credit card",What payment methods do you accept?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Vehicle,Low,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Profile,Low,"account,password,login,profile",How to change my email?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Contact Support,Medium,"support,report,feedback,help",How to report a problem?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,Login Issues,Medium,"app,crash,bug,notification",How to fix login issues?
+How do I check my referral status?,Track your referral rewards in the 'Referrals' section.,Promotions,Promo Codes,Low,"promo,offer,discount,referral",How to refer friends?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Cancel Ride,High,"booking,ride,schedule",How to book a ride?
+What payment methods are accepted?,"We accept credit cards, debit cards, and mobile wallets like Apple Pay and Google Pay.",Payment,Add Payment Method,High,"payment,refund,wallet,credit card",What payment methods do you accept?
+What if the vehicle is not clean?,"If the vehicle is not clean, please report the issue to support immediately.",Ride Issues,Safety,Medium,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Profile,Medium,"account,password,login,profile",How to reset my password?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Contact Support,Medium,"support,report,feedback,help",Where to send feedback?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,Login Issues,Low,"app,crash,bug,notification",How to enable notifications?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Offers,High,"promo,offer,discount,referral",How to use promo codes?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Ride Booking,High,"booking,ride,schedule",How to cancel a ride?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Refunds,High,"payment,refund,wallet,credit card",How to get a refund?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Safety,High,"driver,vehicle,delay,safety","My driver is late, what to do?"
+What to do if I cannot login?,"If you cannot login, try resetting your password or contact support.",Account,Login,Medium,"account,password,login,profile",How to reset my password?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Feedback,Low,"support,report,feedback,help",How to report a problem?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,Notifications,High,"app,crash,bug,notification",How to fix login issues?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Promo Codes,Low,"promo,offer,discount,referral",What offers are available?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Ride Booking,Low,"booking,ride,schedule",How to book a ride?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Refunds,High,"payment,refund,wallet,credit card",How to add a payment method?
+Can I change drivers during a ride?,"Currently, you cannot change drivers during an ongoing ride.",Ride Issues,Safety,Low,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Password,High,"account,password,login,profile",How to update profile info?
+Is there a live chat support?,"Yes, live chat support is available 24/7 within the app.",Support,Feedback,Medium,"support,report,feedback,help",How to contact support?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,Login Issues,Medium,"app,crash,bug,notification",Why does my app crash?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Referral,Low,"promo,offer,discount,referral",What offers are available?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Ride Booking,Low,"booking,ride,schedule",How to change pickup location?
+How can I add a payment method?,You can add a payment method in the 'Payments' section of the app settings.,Payment,Payment Methods,Medium,"payment,refund,wallet,credit card",What payment methods do you accept?
+Can I change drivers during a ride?,"Currently, you cannot change drivers during an ongoing ride.",Ride Issues,Safety,High,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Profile,Low,"account,password,login,profile",How to change my email?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Report Issue,Medium,"support,report,feedback,help",How to report a problem?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,Login Issues,High,"app,crash,bug,notification",Why does my app crash?
+How do I check my referral status?,Track your referral rewards in the 'Referrals' section.,Promotions,Referral,Medium,"promo,offer,discount,referral",How to use promo codes?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Cancel Ride,High,"booking,ride,schedule",How to book a ride?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Payment Methods,Low,"payment,refund,wallet,credit card",What payment methods do you accept?
+Can I change drivers during a ride?,"Currently, you cannot change drivers during an ongoing ride.",Ride Issues,Vehicle,High,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How to update my profile information?,Update your profile information by navigating to 'Profile' in the app.,Account,Password,Low,"account,password,login,profile",How to change my email?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Contact Support,Medium,"support,report,feedback,help",How to report a problem?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,Login Issues,High,"app,crash,bug,notification",How to fix login issues?
+How do I check my referral status?,Track your referral rewards in the 'Referrals' section.,Promotions,Promo Codes,High,"promo,offer,discount,referral",How to refer friends?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Cancel Ride,High,"booking,ride,schedule",How to cancel a ride?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Refunds,Low,"payment,refund,wallet,credit card",What payment methods do you accept?
+Can I change drivers during a ride?,"Currently, you cannot change drivers during an ongoing ride.",Ride Issues,Vehicle,Low,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Login,Low,"account,password,login,profile",How to change my email?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Report Issue,Low,"support,report,feedback,help",How to contact support?
+How to enable push notifications?,Enable push notifications in your device settings under app permissions.,App Issues,Login Issues,Medium,"app,crash,bug,notification",How to enable notifications?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Referral,Medium,"promo,offer,discount,referral",How to use promo codes?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Cancel Ride,Low,"booking,ride,schedule",How to change pickup location?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Payment Methods,Medium,"payment,refund,wallet,credit card",How to get a refund?
+Can I change drivers during a ride?,"Currently, you cannot change drivers during an ongoing ride.",Ride Issues,Vehicle,Medium,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Profile,Medium,"account,password,login,profile",How to reset my password?
+Is there a live chat support?,"Yes, live chat support is available 24/7 within the app.",Support,Feedback,Low,"support,report,feedback,help",How to report a problem?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,Notifications,Medium,"app,crash,bug,notification",How to fix login issues?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Promo Codes,High,"promo,offer,discount,referral",How to use promo codes?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Cancel Ride,High,"booking,ride,schedule",How to cancel a ride?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Add Payment Method,Medium,"payment,refund,wallet,credit card",What payment methods do you accept?
+Can I change drivers during a ride?,"Currently, you cannot change drivers during an ongoing ride.",Ride Issues,Driver,High,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Password,Medium,"account,password,login,profile",How to reset my password?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Feedback,High,"support,report,feedback,help",How to report a problem?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,App Crashes,Medium,"app,crash,bug,notification",How to enable notifications?
+How do I check my referral status?,Track your referral rewards in the 'Referrals' section.,Promotions,Offers,Medium,"promo,offer,discount,referral",How to refer friends?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Ride Booking,Medium,"booking,ride,schedule",How to cancel a ride?
+How can I add a payment method?,You can add a payment method in the 'Payments' section of the app settings.,Payment,Add Payment Method,High,"payment,refund,wallet,credit card",How to get a refund?
+What if the vehicle is not clean?,"If the vehicle is not clean, please report the issue to support immediately.",Ride Issues,Safety,Medium,"driver,vehicle,delay,safety",How to report a safety issue?
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Login,Medium,"account,password,login,profile",How to update profile info?
+What are the support hours?,Support is available from 8 AM to 10 PM daily.,Support,Contact Support,High,"support,report,feedback,help",How to report a problem?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,Notifications,Low,"app,crash,bug,notification",Why does my app crash?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Offers,High,"promo,offer,discount,referral",What offers are available?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Change Pickup,High,"booking,ride,schedule",How to cancel a ride?
+What payment methods are accepted?,"We accept credit cards, debit cards, and mobile wallets like Apple Pay and Google Pay.",Payment,Add Payment Method,High,"payment,refund,wallet,credit card",How to add a payment method?
+What if the vehicle is not clean?,"If the vehicle is not clean, please report the issue to support immediately.",Ride Issues,Safety,Medium,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How to update my profile information?,Update your profile information by navigating to 'Profile' in the app.,Account,Login,High,"account,password,login,profile",How to update profile info?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Report Issue,High,"support,report,feedback,help",How to report a problem?
+How to enable push notifications?,Enable push notifications in your device settings under app permissions.,App Issues,Notifications,Medium,"app,crash,bug,notification",Why does my app crash?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Referral,High,"promo,offer,discount,referral",What offers are available?
+How do I book a ride?,"To book a ride, open the app, enter your destination, and tap 'Book'.",Booking,Ride Booking,Low,"booking,ride,schedule",How to book a ride?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Refunds,Medium,"payment,refund,wallet,credit card",How to add a payment method?
+What if the vehicle is not clean?,"If the vehicle is not clean, please report the issue to support immediately.",Ride Issues,Driver,Low,"driver,vehicle,delay,safety",How to report a safety issue?
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Password,Medium,"account,password,login,profile",How to reset my password?
+What are the support hours?,Support is available from 8 AM to 10 PM daily.,Support,Feedback,Medium,"support,report,feedback,help",How to report a problem?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,App Crashes,High,"app,crash,bug,notification",How to enable notifications?
+How to use promo codes?,Apply promo codes at checkout to get discounts on your rides.,Promotions,Promo Codes,Low,"promo,offer,discount,referral",How to use promo codes?
+Is it possible to schedule a ride in advance?,"Yes, you can schedule a ride in advance from the 'Schedule' tab.",Booking,Ride Booking,High,"booking,ride,schedule",How to change pickup location?
+What payment methods are accepted?,"We accept credit cards, debit cards, and mobile wallets like Apple Pay and Google Pay.",Payment,Refunds,Low,"payment,refund,wallet,credit card",How to add a payment method?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Driver,Medium,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Login,Medium,"account,password,login,profile",How to update profile info?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Report Issue,Medium,"support,report,feedback,help",How to contact support?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,App Crashes,Medium,"app,crash,bug,notification",How to fix login issues?
+How do I check my referral status?,Track your referral rewards in the 'Referrals' section.,Promotions,Promo Codes,Low,"promo,offer,discount,referral",How to use promo codes?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Change Pickup,Medium,"booking,ride,schedule",How to change pickup location?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Payment Methods,High,"payment,refund,wallet,credit card",What payment methods do you accept?
+What if the vehicle is not clean?,"If the vehicle is not clean, please report the issue to support immediately.",Ride Issues,Safety,High,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Login,High,"account,password,login,profile",How to update profile info?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Report Issue,High,"support,report,feedback,help",Where to send feedback?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,Notifications,Low,"app,crash,bug,notification",Why does my app crash?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Promo Codes,High,"promo,offer,discount,referral",What offers are available?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Change Pickup,Medium,"booking,ride,schedule",How to change pickup location?
+How can I add a payment method?,You can add a payment method in the 'Payments' section of the app settings.,Payment,Payment Methods,High,"payment,refund,wallet,credit card",How to add a payment method?
+What if the vehicle is not clean?,"If the vehicle is not clean, please report the issue to support immediately.",Ride Issues,Safety,High,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Password,High,"account,password,login,profile",How to update profile info?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Contact Support,Medium,"support,report,feedback,help",How to report a problem?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,Notifications,High,"app,crash,bug,notification",How to fix login issues?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Referral,Low,"promo,offer,discount,referral",How to refer friends?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Change Pickup,Low,"booking,ride,schedule",How to book a ride?
+What payment methods are accepted?,"We accept credit cards, debit cards, and mobile wallets like Apple Pay and Google Pay.",Payment,Add Payment Method,High,"payment,refund,wallet,credit card",What payment methods do you accept?
+Can I change drivers during a ride?,"Currently, you cannot change drivers during an ongoing ride.",Ride Issues,Vehicle,High,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Password,Low,"account,password,login,profile",How to reset my password?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Feedback,High,"support,report,feedback,help",How to contact support?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,Login Issues,High,"app,crash,bug,notification",How to fix login issues?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Promo Codes,High,"promo,offer,discount,referral",What offers are available?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Change Pickup,Medium,"booking,ride,schedule",How to cancel a ride?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Payment Methods,Medium,"payment,refund,wallet,credit card",How to add a payment method?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Driver,Low,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Password,Low,"account,password,login,profile",How to change my email?
+Is there a live chat support?,"Yes, live chat support is available 24/7 within the app.",Support,Feedback,Low,"support,report,feedback,help",How to contact support?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,App Crashes,High,"app,crash,bug,notification",How to fix login issues?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Promo Codes,Medium,"promo,offer,discount,referral",What offers are available?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Ride Booking,Low,"booking,ride,schedule",How to book a ride?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Refunds,High,"payment,refund,wallet,credit card",How to add a payment method?
+Can I change drivers during a ride?,"Currently, you cannot change drivers during an ongoing ride.",Ride Issues,Driver,Low,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How to update my profile information?,Update your profile information by navigating to 'Profile' in the app.,Account,Profile,High,"account,password,login,profile",How to reset my password?
+Is there a live chat support?,"Yes, live chat support is available 24/7 within the app.",Support,Contact Support,High,"support,report,feedback,help",Where to send feedback?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,Notifications,Low,"app,crash,bug,notification",How to enable notifications?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Referral,Low,"promo,offer,discount,referral",How to refer friends?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Change Pickup,Low,"booking,ride,schedule",How to cancel a ride?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Refunds,Low,"payment,refund,wallet,credit card",What payment methods do you accept?
+What if the vehicle is not clean?,"If the vehicle is not clean, please report the issue to support immediately.",Ride Issues,Vehicle,High,"driver,vehicle,delay,safety",How to report a safety issue?
+How to update my profile information?,Update your profile information by navigating to 'Profile' in the app.,Account,Password,Low,"account,password,login,profile",How to reset my password?
+Is there a live chat support?,"Yes, live chat support is available 24/7 within the app.",Support,Feedback,High,"support,report,feedback,help",Where to send feedback?
+How to enable push notifications?,Enable push notifications in your device settings under app permissions.,App Issues,Notifications,Medium,"app,crash,bug,notification",How to enable notifications?
+How do I check my referral status?,Track your referral rewards in the 'Referrals' section.,Promotions,Referral,Low,"promo,offer,discount,referral",How to use promo codes?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Cancel Ride,Medium,"booking,ride,schedule",How to change pickup location?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Payment Methods,Low,"payment,refund,wallet,credit card",What payment methods do you accept?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Safety,Low,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Login,Low,"account,password,login,profile",How to update profile info?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Feedback,Low,"support,report,feedback,help",How to contact support?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,Login Issues,High,"app,crash,bug,notification",How to enable notifications?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Offers,Medium,"promo,offer,discount,referral",How to refer friends?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Cancel Ride,High,"booking,ride,schedule",How to book a ride?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Payment Methods,Medium,"payment,refund,wallet,credit card",What payment methods do you accept?
+What if the vehicle is not clean?,"If the vehicle is not clean, please report the issue to support immediately.",Ride Issues,Safety,Medium,"driver,vehicle,delay,safety",How to report a safety issue?
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Login,Medium,"account,password,login,profile",How to change my email?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Contact Support,High,"support,report,feedback,help",How to contact support?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,App Crashes,Medium,"app,crash,bug,notification",How to fix login issues?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Promo Codes,Medium,"promo,offer,discount,referral",How to use promo codes?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Ride Booking,Low,"booking,ride,schedule",How to change pickup location?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Refunds,High,"payment,refund,wallet,credit card",How to add a payment method?
+Can I change drivers during a ride?,"Currently, you cannot change drivers during an ongoing ride.",Ride Issues,Safety,Medium,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Password,Low,"account,password,login,profile",How to update profile info?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Contact Support,Low,"support,report,feedback,help",How to contact support?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,App Crashes,Medium,"app,crash,bug,notification",How to fix login issues?
+How to use promo codes?,Apply promo codes at checkout to get discounts on your rides.,Promotions,Promo Codes,Medium,"promo,offer,discount,referral",How to refer friends?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Cancel Ride,High,"booking,ride,schedule",How to book a ride?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Refunds,Low,"payment,refund,wallet,credit card",How to get a refund?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Driver,Low,"driver,vehicle,delay,safety",How to report a safety issue?
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Profile,Low,"account,password,login,profile",How to reset my password?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Report Issue,Medium,"support,report,feedback,help",How to contact support?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,App Crashes,Low,"app,crash,bug,notification",How to enable notifications?
+How to use promo codes?,Apply promo codes at checkout to get discounts on your rides.,Promotions,Promo Codes,Medium,"promo,offer,discount,referral",What offers are available?
+How do I book a ride?,"To book a ride, open the app, enter your destination, and tap 'Book'.",Booking,Change Pickup,High,"booking,ride,schedule",How to cancel a ride?
+How can I add a payment method?,You can add a payment method in the 'Payments' section of the app settings.,Payment,Refunds,Medium,"payment,refund,wallet,credit card",What payment methods do you accept?
+Can I change drivers during a ride?,"Currently, you cannot change drivers during an ongoing ride.",Ride Issues,Vehicle,Medium,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How to update my profile information?,Update your profile information by navigating to 'Profile' in the app.,Account,Password,Low,"account,password,login,profile",How to change my email?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Feedback,High,"support,report,feedback,help",How to report a problem?
+How to fix login issues?,Fix login issues by clearing app cache or reinstalling the app.,App Issues,Login Issues,High,"app,crash,bug,notification",How to fix login issues?
+How do I check my referral status?,Track your referral rewards in the 'Referrals' section.,Promotions,Referral,Low,"promo,offer,discount,referral",How to refer friends?
+How do I book a ride?,"To book a ride, open the app, enter your destination, and tap 'Book'.",Booking,Change Pickup,Medium,"booking,ride,schedule",How to book a ride?
+How can I add a payment method?,You can add a payment method in the 'Payments' section of the app settings.,Payment,Add Payment Method,Low,"payment,refund,wallet,credit card",How to add a payment method?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Vehicle,Medium,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How to update my profile information?,Update your profile information by navigating to 'Profile' in the app.,Account,Login,Medium,"account,password,login,profile",How to update profile info?
+Is there a live chat support?,"Yes, live chat support is available 24/7 within the app.",Support,Feedback,Medium,"support,report,feedback,help",Where to send feedback?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,Notifications,High,"app,crash,bug,notification",How to fix login issues?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Referral,Low,"promo,offer,discount,referral",How to use promo codes?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Cancel Ride,Low,"booking,ride,schedule",How to change pickup location?
+What payment methods are accepted?,"We accept credit cards, debit cards, and mobile wallets like Apple Pay and Google Pay.",Payment,Add Payment Method,High,"payment,refund,wallet,credit card",What payment methods do you accept?
+What if the vehicle is not clean?,"If the vehicle is not clean, please report the issue to support immediately.",Ride Issues,Vehicle,Medium,"driver,vehicle,delay,safety",How to report a safety issue?
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Password,Medium,"account,password,login,profile",How to reset my password?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Feedback,Medium,"support,report,feedback,help",How to contact support?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,Notifications,High,"app,crash,bug,notification",How to enable notifications?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Promo Codes,High,"promo,offer,discount,referral",What offers are available?
+How do I book a ride?,"To book a ride, open the app, enter your destination, and tap 'Book'.",Booking,Ride Booking,High,"booking,ride,schedule",How to book a ride?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Refunds,Medium,"payment,refund,wallet,credit card",How to get a refund?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Vehicle,Medium,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How to update my profile information?,Update your profile information by navigating to 'Profile' in the app.,Account,Password,Medium,"account,password,login,profile",How to update profile info?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Contact Support,Medium,"support,report,feedback,help",How to report a problem?
+How to fix login issues?,Fix login issues by clearing app cache or reinstalling the app.,App Issues,Notifications,Medium,"app,crash,bug,notification",How to fix login issues?
+How do I check my referral status?,Track your referral rewards in the 'Referrals' section.,Promotions,Offers,Low,"promo,offer,discount,referral",How to refer friends?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Cancel Ride,High,"booking,ride,schedule",How to book a ride?
+What payment methods are accepted?,"We accept credit cards, debit cards, and mobile wallets like Apple Pay and Google Pay.",Payment,Add Payment Method,Medium,"payment,refund,wallet,credit card",What payment methods do you accept?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Driver,Low,"driver,vehicle,delay,safety",How to report a safety issue?
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Profile,Low,"account,password,login,profile",How to reset my password?
+What are the support hours?,Support is available from 8 AM to 10 PM daily.,Support,Feedback,Low,"support,report,feedback,help",Where to send feedback?
+How to fix login issues?,Fix login issues by clearing app cache or reinstalling the app.,App Issues,App Crashes,Low,"app,crash,bug,notification",Why does my app crash?
+How do I check my referral status?,Track your referral rewards in the 'Referrals' section.,Promotions,Promo Codes,Medium,"promo,offer,discount,referral",How to refer friends?
+Is it possible to schedule a ride in advance?,"Yes, you can schedule a ride in advance from the 'Schedule' tab.",Booking,Ride Booking,Low,"booking,ride,schedule",How to change pickup location?
+How can I add a payment method?,You can add a payment method in the 'Payments' section of the app settings.,Payment,Refunds,Medium,"payment,refund,wallet,credit card",How to add a payment method?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Vehicle,Low,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Login,Low,"account,password,login,profile",How to update profile info?
+What are the support hours?,Support is available from 8 AM to 10 PM daily.,Support,Contact Support,Medium,"support,report,feedback,help",Where to send feedback?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,Login Issues,Medium,"app,crash,bug,notification",How to enable notifications?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Offers,Medium,"promo,offer,discount,referral",What offers are available?
+Is it possible to schedule a ride in advance?,"Yes, you can schedule a ride in advance from the 'Schedule' tab.",Booking,Ride Booking,Medium,"booking,ride,schedule",How to cancel a ride?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Payment Methods,High,"payment,refund,wallet,credit card",How to get a refund?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Vehicle,Low,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Profile,Low,"account,password,login,profile",How to reset my password?
+Is there a live chat support?,"Yes, live chat support is available 24/7 within the app.",Support,Feedback,Medium,"support,report,feedback,help",How to contact support?
+How to fix login issues?,Fix login issues by clearing app cache or reinstalling the app.,App Issues,Notifications,Low,"app,crash,bug,notification",How to enable notifications?
+How do I check my referral status?,Track your referral rewards in the 'Referrals' section.,Promotions,Offers,Medium,"promo,offer,discount,referral",How to refer friends?
+Is it possible to schedule a ride in advance?,"Yes, you can schedule a ride in advance from the 'Schedule' tab.",Booking,Cancel Ride,Low,"booking,ride,schedule",How to cancel a ride?
+How can I add a payment method?,You can add a payment method in the 'Payments' section of the app settings.,Payment,Payment Methods,Low,"payment,refund,wallet,credit card",How to get a refund?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Vehicle,Medium,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Login,Medium,"account,password,login,profile",How to change my email?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Feedback,Medium,"support,report,feedback,help",How to report a problem?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,App Crashes,Low,"app,crash,bug,notification",How to enable notifications?
+How to use promo codes?,Apply promo codes at checkout to get discounts on your rides.,Promotions,Offers,Medium,"promo,offer,discount,referral",How to use promo codes?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Cancel Ride,Medium,"booking,ride,schedule",How to change pickup location?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Refunds,Low,"payment,refund,wallet,credit card",How to get a refund?
+Can I change drivers during a ride?,"Currently, you cannot change drivers during an ongoing ride.",Ride Issues,Safety,Medium,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Profile,High,"account,password,login,profile",How to update profile info?
+What are the support hours?,Support is available from 8 AM to 10 PM daily.,Support,Feedback,Low,"support,report,feedback,help",How to report a problem?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,Notifications,Low,"app,crash,bug,notification",How to enable notifications?
+How do I check my referral status?,Track your referral rewards in the 'Referrals' section.,Promotions,Offers,Low,"promo,offer,discount,referral",How to refer friends?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Change Pickup,High,"booking,ride,schedule",How to change pickup location?
+How can I add a payment method?,You can add a payment method in the 'Payments' section of the app settings.,Payment,Add Payment Method,Medium,"payment,refund,wallet,credit card",How to add a payment method?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Driver,High,"driver,vehicle,delay,safety","My driver is late, what to do?"
+What to do if I cannot login?,"If you cannot login, try resetting your password or contact support.",Account,Login,High,"account,password,login,profile",How to update profile info?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Report Issue,Medium,"support,report,feedback,help",Where to send feedback?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,Login Issues,High,"app,crash,bug,notification",Why does my app crash?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Promo Codes,Low,"promo,offer,discount,referral",How to refer friends?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Cancel Ride,High,"booking,ride,schedule",How to change pickup location?
+What payment methods are accepted?,"We accept credit cards, debit cards, and mobile wallets like Apple Pay and Google Pay.",Payment,Add Payment Method,Medium,"payment,refund,wallet,credit card",How to get a refund?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Vehicle,Medium,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Profile,Low,"account,password,login,profile",How to update profile info?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Report Issue,Medium,"support,report,feedback,help",Where to send feedback?
+How to enable push notifications?,Enable push notifications in your device settings under app permissions.,App Issues,Login Issues,High,"app,crash,bug,notification",How to enable notifications?
+How do I check my referral status?,Track your referral rewards in the 'Referrals' section.,Promotions,Promo Codes,High,"promo,offer,discount,referral",How to use promo codes?
+How do I book a ride?,"To book a ride, open the app, enter your destination, and tap 'Book'.",Booking,Cancel Ride,Low,"booking,ride,schedule",How to change pickup location?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Payment Methods,Medium,"payment,refund,wallet,credit card",How to get a refund?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Safety,High,"driver,vehicle,delay,safety",How to report a safety issue?
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Login,Medium,"account,password,login,profile",How to update profile info?
+Is there a live chat support?,"Yes, live chat support is available 24/7 within the app.",Support,Feedback,High,"support,report,feedback,help",Where to send feedback?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,Login Issues,High,"app,crash,bug,notification",Why does my app crash?
+How to use promo codes?,Apply promo codes at checkout to get discounts on your rides.,Promotions,Offers,Medium,"promo,offer,discount,referral",How to refer friends?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Change Pickup,Medium,"booking,ride,schedule",How to book a ride?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Add Payment Method,High,"payment,refund,wallet,credit card",How to add a payment method?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Vehicle,Low,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Login,Medium,"account,password,login,profile",How to reset my password?
+Is there a live chat support?,"Yes, live chat support is available 24/7 within the app.",Support,Feedback,High,"support,report,feedback,help",How to report a problem?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,Notifications,High,"app,crash,bug,notification",How to fix login issues?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Referral,High,"promo,offer,discount,referral",What offers are available?
+How do I book a ride?,"To book a ride, open the app, enter your destination, and tap 'Book'.",Booking,Ride Booking,High,"booking,ride,schedule",How to cancel a ride?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Payment Methods,Medium,"payment,refund,wallet,credit card",How to get a refund?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Driver,Low,"driver,vehicle,delay,safety",How to report a safety issue?
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Login,Medium,"account,password,login,profile",How to reset my password?
+Is there a live chat support?,"Yes, live chat support is available 24/7 within the app.",Support,Contact Support,Medium,"support,report,feedback,help",Where to send feedback?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,Notifications,Medium,"app,crash,bug,notification",How to fix login issues?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Referral,Low,"promo,offer,discount,referral",How to refer friends?
+How do I book a ride?,"To book a ride, open the app, enter your destination, and tap 'Book'.",Booking,Change Pickup,Medium,"booking,ride,schedule",How to book a ride?
+How can I add a payment method?,You can add a payment method in the 'Payments' section of the app settings.,Payment,Add Payment Method,Low,"payment,refund,wallet,credit card",How to get a refund?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Driver,Low,"driver,vehicle,delay,safety","My driver is late, what to do?"
+What to do if I cannot login?,"If you cannot login, try resetting your password or contact support.",Account,Password,Low,"account,password,login,profile",How to change my email?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Report Issue,Low,"support,report,feedback,help",How to contact support?
+How to fix login issues?,Fix login issues by clearing app cache or reinstalling the app.,App Issues,Login Issues,Medium,"app,crash,bug,notification",How to enable notifications?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Promo Codes,Medium,"promo,offer,discount,referral",How to refer friends?
+How do I book a ride?,"To book a ride, open the app, enter your destination, and tap 'Book'.",Booking,Change Pickup,High,"booking,ride,schedule",How to cancel a ride?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Payment Methods,High,"payment,refund,wallet,credit card",How to add a payment method?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Vehicle,Medium,"driver,vehicle,delay,safety",How to report a safety issue?
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Password,Medium,"account,password,login,profile",How to change my email?
+What are the support hours?,Support is available from 8 AM to 10 PM daily.,Support,Feedback,Low,"support,report,feedback,help",How to report a problem?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,Notifications,Low,"app,crash,bug,notification",How to fix login issues?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Promo Codes,High,"promo,offer,discount,referral",What offers are available?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Cancel Ride,High,"booking,ride,schedule",How to change pickup location?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Add Payment Method,Medium,"payment,refund,wallet,credit card",How to add a payment method?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Safety,High,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Profile,High,"account,password,login,profile",How to change my email?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Feedback,Medium,"support,report,feedback,help",Where to send feedback?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,Login Issues,Low,"app,crash,bug,notification",How to fix login issues?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Offers,Medium,"promo,offer,discount,referral",How to use promo codes?
+How do I book a ride?,"To book a ride, open the app, enter your destination, and tap 'Book'.",Booking,Cancel Ride,Low,"booking,ride,schedule",How to change pickup location?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Payment Methods,High,"payment,refund,wallet,credit card",How to get a refund?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Vehicle,Low,"driver,vehicle,delay,safety",How to report a safety issue?
+What to do if I cannot login?,"If you cannot login, try resetting your password or contact support.",Account,Login,Low,"account,password,login,profile",How to change my email?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Feedback,Low,"support,report,feedback,help",Where to send feedback?
+How to enable push notifications?,Enable push notifications in your device settings under app permissions.,App Issues,Login Issues,Medium,"app,crash,bug,notification",Why does my app crash?
+How do I check my referral status?,Track your referral rewards in the 'Referrals' section.,Promotions,Promo Codes,Medium,"promo,offer,discount,referral",How to use promo codes?
+How do I book a ride?,"To book a ride, open the app, enter your destination, and tap 'Book'.",Booking,Change Pickup,Low,"booking,ride,schedule",How to book a ride?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Add Payment Method,Low,"payment,refund,wallet,credit card",What payment methods do you accept?
+Can I change drivers during a ride?,"Currently, you cannot change drivers during an ongoing ride.",Ride Issues,Safety,Medium,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Login,Medium,"account,password,login,profile",How to reset my password?
+Is there a live chat support?,"Yes, live chat support is available 24/7 within the app.",Support,Report Issue,Low,"support,report,feedback,help",How to report a problem?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,Login Issues,High,"app,crash,bug,notification",How to enable notifications?
+How to use promo codes?,Apply promo codes at checkout to get discounts on your rides.,Promotions,Promo Codes,Low,"promo,offer,discount,referral",How to use promo codes?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Cancel Ride,High,"booking,ride,schedule",How to book a ride?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Refunds,High,"payment,refund,wallet,credit card",What payment methods do you accept?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Driver,Medium,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+What to do if I cannot login?,"If you cannot login, try resetting your password or contact support.",Account,Login,Low,"account,password,login,profile",How to update profile info?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Report Issue,Medium,"support,report,feedback,help",How to contact support?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,App Crashes,Low,"app,crash,bug,notification",Why does my app crash?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Referral,Low,"promo,offer,discount,referral",How to use promo codes?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Change Pickup,Medium,"booking,ride,schedule",How to change pickup location?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Refunds,High,"payment,refund,wallet,credit card",What payment methods do you accept?
+What if the vehicle is not clean?,"If the vehicle is not clean, please report the issue to support immediately.",Ride Issues,Safety,High,"driver,vehicle,delay,safety",How to report a safety issue?
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Password,Medium,"account,password,login,profile",How to change my email?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Contact Support,Low,"support,report,feedback,help",How to report a problem?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,Notifications,Medium,"app,crash,bug,notification",How to enable notifications?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Referral,Low,"promo,offer,discount,referral",How to use promo codes?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Change Pickup,High,"booking,ride,schedule",How to change pickup location?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Payment Methods,Medium,"payment,refund,wallet,credit card",How to add a payment method?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Driver,Low,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Profile,High,"account,password,login,profile",How to change my email?
+What are the support hours?,Support is available from 8 AM to 10 PM daily.,Support,Report Issue,Low,"support,report,feedback,help",Where to send feedback?
+How to enable push notifications?,Enable push notifications in your device settings under app permissions.,App Issues,App Crashes,Medium,"app,crash,bug,notification",How to fix login issues?
+How do I check my referral status?,Track your referral rewards in the 'Referrals' section.,Promotions,Referral,Low,"promo,offer,discount,referral",How to refer friends?
+Is it possible to schedule a ride in advance?,"Yes, you can schedule a ride in advance from the 'Schedule' tab.",Booking,Ride Booking,High,"booking,ride,schedule",How to change pickup location?
+What payment methods are accepted?,"We accept credit cards, debit cards, and mobile wallets like Apple Pay and Google Pay.",Payment,Payment Methods,High,"payment,refund,wallet,credit card",How to add a payment method?
+What if the vehicle is not clean?,"If the vehicle is not clean, please report the issue to support immediately.",Ride Issues,Safety,Medium,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Password,Low,"account,password,login,profile",How to update profile info?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Contact Support,Low,"support,report,feedback,help",Where to send feedback?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,App Crashes,Low,"app,crash,bug,notification",How to fix login issues?
+How to use promo codes?,Apply promo codes at checkout to get discounts on your rides.,Promotions,Referral,Low,"promo,offer,discount,referral",What offers are available?
+Is it possible to schedule a ride in advance?,"Yes, you can schedule a ride in advance from the 'Schedule' tab.",Booking,Change Pickup,High,"booking,ride,schedule",How to cancel a ride?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Refunds,Medium,"payment,refund,wallet,credit card",What payment methods do you accept?
+What if the vehicle is not clean?,"If the vehicle is not clean, please report the issue to support immediately.",Ride Issues,Vehicle,High,"driver,vehicle,delay,safety",How to report a safety issue?
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Profile,Medium,"account,password,login,profile",How to update profile info?
+What are the support hours?,Support is available from 8 AM to 10 PM daily.,Support,Report Issue,Low,"support,report,feedback,help",How to contact support?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,App Crashes,Medium,"app,crash,bug,notification",How to enable notifications?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Referral,Low,"promo,offer,discount,referral",What offers are available?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Cancel Ride,Low,"booking,ride,schedule",How to cancel a ride?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Payment Methods,Low,"payment,refund,wallet,credit card",How to add a payment method?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Safety,Low,"driver,vehicle,delay,safety",How to report a safety issue?
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Profile,High,"account,password,login,profile",How to update profile info?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Contact Support,High,"support,report,feedback,help",Where to send feedback?
+How to enable push notifications?,Enable push notifications in your device settings under app permissions.,App Issues,App Crashes,High,"app,crash,bug,notification",How to enable notifications?
+How to use promo codes?,Apply promo codes at checkout to get discounts on your rides.,Promotions,Promo Codes,Medium,"promo,offer,discount,referral",What offers are available?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Change Pickup,Low,"booking,ride,schedule",How to change pickup location?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Add Payment Method,Medium,"payment,refund,wallet,credit card",What payment methods do you accept?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Driver,Low,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Login,Medium,"account,password,login,profile",How to update profile info?
+Is there a live chat support?,"Yes, live chat support is available 24/7 within the app.",Support,Report Issue,Low,"support,report,feedback,help",Where to send feedback?
+How to fix login issues?,Fix login issues by clearing app cache or reinstalling the app.,App Issues,App Crashes,High,"app,crash,bug,notification",How to enable notifications?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Referral,High,"promo,offer,discount,referral",What offers are available?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Ride Booking,Low,"booking,ride,schedule",How to change pickup location?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Refunds,High,"payment,refund,wallet,credit card",How to add a payment method?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Safety,Low,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Profile,High,"account,password,login,profile",How to reset my password?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Feedback,Low,"support,report,feedback,help",How to contact support?
+How to enable push notifications?,Enable push notifications in your device settings under app permissions.,App Issues,App Crashes,Medium,"app,crash,bug,notification",How to enable notifications?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Promo Codes,Low,"promo,offer,discount,referral",How to use promo codes?
+How do I book a ride?,"To book a ride, open the app, enter your destination, and tap 'Book'.",Booking,Cancel Ride,High,"booking,ride,schedule",How to change pickup location?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Refunds,High,"payment,refund,wallet,credit card",What payment methods do you accept?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Vehicle,Medium,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Login,High,"account,password,login,profile",How to update profile info?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Contact Support,Low,"support,report,feedback,help",How to report a problem?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,Login Issues,Medium,"app,crash,bug,notification",Why does my app crash?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Offers,Medium,"promo,offer,discount,referral",What offers are available?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Cancel Ride,High,"booking,ride,schedule",How to book a ride?
+How can I add a payment method?,You can add a payment method in the 'Payments' section of the app settings.,Payment,Refunds,High,"payment,refund,wallet,credit card",What payment methods do you accept?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Vehicle,Medium,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Profile,Low,"account,password,login,profile",How to change my email?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Report Issue,Low,"support,report,feedback,help",How to contact support?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,App Crashes,Low,"app,crash,bug,notification",Why does my app crash?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Referral,Low,"promo,offer,discount,referral",How to refer friends?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Cancel Ride,Low,"booking,ride,schedule",How to change pickup location?
+What payment methods are accepted?,"We accept credit cards, debit cards, and mobile wallets like Apple Pay and Google Pay.",Payment,Payment Methods,Medium,"payment,refund,wallet,credit card",How to get a refund?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Driver,High,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Password,Medium,"account,password,login,profile",How to update profile info?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Report Issue,High,"support,report,feedback,help",How to contact support?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,App Crashes,Low,"app,crash,bug,notification",How to enable notifications?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Promo Codes,Medium,"promo,offer,discount,referral",How to refer friends?
+Is it possible to schedule a ride in advance?,"Yes, you can schedule a ride in advance from the 'Schedule' tab.",Booking,Cancel Ride,High,"booking,ride,schedule",How to change pickup location?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Payment Methods,Medium,"payment,refund,wallet,credit card",How to get a refund?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Driver,High,"driver,vehicle,delay,safety","My driver is late, what to do?"
+What to do if I cannot login?,"If you cannot login, try resetting your password or contact support.",Account,Password,Low,"account,password,login,profile",How to change my email?
+What are the support hours?,Support is available from 8 AM to 10 PM daily.,Support,Contact Support,High,"support,report,feedback,help",How to report a problem?
+How to fix login issues?,Fix login issues by clearing app cache or reinstalling the app.,App Issues,Notifications,Low,"app,crash,bug,notification",Why does my app crash?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Referral,Medium,"promo,offer,discount,referral",What offers are available?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Ride Booking,Low,"booking,ride,schedule",How to change pickup location?
+How can I add a payment method?,You can add a payment method in the 'Payments' section of the app settings.,Payment,Payment Methods,High,"payment,refund,wallet,credit card",What payment methods do you accept?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Driver,Low,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How to update my profile information?,Update your profile information by navigating to 'Profile' in the app.,Account,Profile,High,"account,password,login,profile",How to change my email?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Report Issue,Low,"support,report,feedback,help",How to report a problem?
+How to enable push notifications?,Enable push notifications in your device settings under app permissions.,App Issues,Notifications,Medium,"app,crash,bug,notification",How to enable notifications?
+How do I check my referral status?,Track your referral rewards in the 'Referrals' section.,Promotions,Promo Codes,Medium,"promo,offer,discount,referral",What offers are available?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Ride Booking,Low,"booking,ride,schedule",How to change pickup location?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Payment Methods,Low,"payment,refund,wallet,credit card",What payment methods do you accept?
+What if the vehicle is not clean?,"If the vehicle is not clean, please report the issue to support immediately.",Ride Issues,Driver,Low,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How to update my profile information?,Update your profile information by navigating to 'Profile' in the app.,Account,Login,High,"account,password,login,profile",How to reset my password?
+What are the support hours?,Support is available from 8 AM to 10 PM daily.,Support,Report Issue,Medium,"support,report,feedback,help",How to contact support?
+How to enable push notifications?,Enable push notifications in your device settings under app permissions.,App Issues,Login Issues,High,"app,crash,bug,notification",How to fix login issues?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Referral,Medium,"promo,offer,discount,referral",What offers are available?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Change Pickup,Low,"booking,ride,schedule",How to change pickup location?
+How can I add a payment method?,You can add a payment method in the 'Payments' section of the app settings.,Payment,Payment Methods,Medium,"payment,refund,wallet,credit card",What payment methods do you accept?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Vehicle,Medium,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Profile,Medium,"account,password,login,profile",How to update profile info?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Contact Support,Low,"support,report,feedback,help",Where to send feedback?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,App Crashes,High,"app,crash,bug,notification",Why does my app crash?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Offers,Low,"promo,offer,discount,referral",How to use promo codes?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Change Pickup,Low,"booking,ride,schedule",How to cancel a ride?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Add Payment Method,High,"payment,refund,wallet,credit card",What payment methods do you accept?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Driver,Medium,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Login,Low,"account,password,login,profile",How to change my email?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Contact Support,Low,"support,report,feedback,help",How to contact support?
+How to enable push notifications?,Enable push notifications in your device settings under app permissions.,App Issues,App Crashes,Medium,"app,crash,bug,notification",How to fix login issues?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Offers,High,"promo,offer,discount,referral",What offers are available?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Change Pickup,Low,"booking,ride,schedule",How to cancel a ride?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Add Payment Method,High,"payment,refund,wallet,credit card",How to get a refund?
+What if the vehicle is not clean?,"If the vehicle is not clean, please report the issue to support immediately.",Ride Issues,Safety,Medium,"driver,vehicle,delay,safety",How to report a safety issue?
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Password,Low,"account,password,login,profile",How to change my email?
+Is there a live chat support?,"Yes, live chat support is available 24/7 within the app.",Support,Contact Support,Medium,"support,report,feedback,help",How to report a problem?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,Notifications,Low,"app,crash,bug,notification",Why does my app crash?
+How to use promo codes?,Apply promo codes at checkout to get discounts on your rides.,Promotions,Promo Codes,Low,"promo,offer,discount,referral",What offers are available?
+How do I book a ride?,"To book a ride, open the app, enter your destination, and tap 'Book'.",Booking,Ride Booking,Medium,"booking,ride,schedule",How to cancel a ride?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Add Payment Method,High,"payment,refund,wallet,credit card",What payment methods do you accept?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Driver,High,"driver,vehicle,delay,safety",How to report a safety issue?
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Login,Low,"account,password,login,profile",How to update profile info?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Feedback,Low,"support,report,feedback,help",How to contact support?
+How to enable push notifications?,Enable push notifications in your device settings under app permissions.,App Issues,App Crashes,High,"app,crash,bug,notification",How to fix login issues?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Promo Codes,High,"promo,offer,discount,referral",How to refer friends?
+Is it possible to schedule a ride in advance?,"Yes, you can schedule a ride in advance from the 'Schedule' tab.",Booking,Ride Booking,Medium,"booking,ride,schedule",How to change pickup location?
+What payment methods are accepted?,"We accept credit cards, debit cards, and mobile wallets like Apple Pay and Google Pay.",Payment,Payment Methods,Medium,"payment,refund,wallet,credit card",What payment methods do you accept?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Vehicle,Low,"driver,vehicle,delay,safety",How to report a safety issue?
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Login,Low,"account,password,login,profile",How to change my email?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Contact Support,Medium,"support,report,feedback,help",Where to send feedback?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,App Crashes,High,"app,crash,bug,notification",How to fix login issues?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Referral,Medium,"promo,offer,discount,referral",What offers are available?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Ride Booking,High,"booking,ride,schedule",How to book a ride?
+How can I add a payment method?,You can add a payment method in the 'Payments' section of the app settings.,Payment,Payment Methods,Low,"payment,refund,wallet,credit card",How to add a payment method?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Vehicle,Medium,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Login,High,"account,password,login,profile",How to change my email?
+Is there a live chat support?,"Yes, live chat support is available 24/7 within the app.",Support,Feedback,Medium,"support,report,feedback,help",How to contact support?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,Notifications,Low,"app,crash,bug,notification",Why does my app crash?
+How to use promo codes?,Apply promo codes at checkout to get discounts on your rides.,Promotions,Promo Codes,Medium,"promo,offer,discount,referral",What offers are available?
+How do I book a ride?,"To book a ride, open the app, enter your destination, and tap 'Book'.",Booking,Change Pickup,High,"booking,ride,schedule",How to book a ride?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Refunds,Medium,"payment,refund,wallet,credit card",How to add a payment method?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Driver,Low,"driver,vehicle,delay,safety",How to report a safety issue?
+How to update my profile information?,Update your profile information by navigating to 'Profile' in the app.,Account,Login,Low,"account,password,login,profile",How to update profile info?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Report Issue,Medium,"support,report,feedback,help",Where to send feedback?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,App Crashes,Low,"app,crash,bug,notification",How to fix login issues?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Referral,Medium,"promo,offer,discount,referral",What offers are available?
+Is it possible to schedule a ride in advance?,"Yes, you can schedule a ride in advance from the 'Schedule' tab.",Booking,Change Pickup,Medium,"booking,ride,schedule",How to change pickup location?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Payment Methods,High,"payment,refund,wallet,credit card",What payment methods do you accept?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Safety,Medium,"driver,vehicle,delay,safety",How to report a safety issue?
+How to update my profile information?,Update your profile information by navigating to 'Profile' in the app.,Account,Profile,Low,"account,password,login,profile",How to change my email?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Feedback,High,"support,report,feedback,help",How to contact support?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,App Crashes,High,"app,crash,bug,notification",How to enable notifications?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Promo Codes,High,"promo,offer,discount,referral",How to use promo codes?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Ride Booking,Medium,"booking,ride,schedule",How to cancel a ride?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Add Payment Method,High,"payment,refund,wallet,credit card",How to add a payment method?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Driver,Medium,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Login,High,"account,password,login,profile",How to reset my password?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Contact Support,Medium,"support,report,feedback,help",Where to send feedback?
+How to fix login issues?,Fix login issues by clearing app cache or reinstalling the app.,App Issues,Notifications,High,"app,crash,bug,notification",How to fix login issues?
+How to use promo codes?,Apply promo codes at checkout to get discounts on your rides.,Promotions,Offers,Low,"promo,offer,discount,referral",How to refer friends?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Ride Booking,High,"booking,ride,schedule",How to change pickup location?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Refunds,Low,"payment,refund,wallet,credit card",What payment methods do you accept?
+Can I change drivers during a ride?,"Currently, you cannot change drivers during an ongoing ride.",Ride Issues,Driver,High,"driver,vehicle,delay,safety",How to report a safety issue?
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Password,Medium,"account,password,login,profile",How to reset my password?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Feedback,Low,"support,report,feedback,help",How to report a problem?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,Login Issues,Low,"app,crash,bug,notification",Why does my app crash?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Referral,High,"promo,offer,discount,referral",What offers are available?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Cancel Ride,Medium,"booking,ride,schedule",How to change pickup location?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Add Payment Method,High,"payment,refund,wallet,credit card",What payment methods do you accept?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Safety,Low,"driver,vehicle,delay,safety",How to report a safety issue?
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Login,Low,"account,password,login,profile",How to change my email?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Feedback,High,"support,report,feedback,help",How to report a problem?
+How to fix login issues?,Fix login issues by clearing app cache or reinstalling the app.,App Issues,App Crashes,Medium,"app,crash,bug,notification",How to enable notifications?
+How to use promo codes?,Apply promo codes at checkout to get discounts on your rides.,Promotions,Referral,High,"promo,offer,discount,referral",How to use promo codes?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Ride Booking,Medium,"booking,ride,schedule",How to book a ride?
+What payment methods are accepted?,"We accept credit cards, debit cards, and mobile wallets like Apple Pay and Google Pay.",Payment,Payment Methods,Low,"payment,refund,wallet,credit card",What payment methods do you accept?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Driver,Medium,"driver,vehicle,delay,safety",How to report a safety issue?
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Profile,Low,"account,password,login,profile",How to change my email?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Report Issue,High,"support,report,feedback,help",How to contact support?
+How to fix login issues?,Fix login issues by clearing app cache or reinstalling the app.,App Issues,Login Issues,Medium,"app,crash,bug,notification",How to fix login issues?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Promo Codes,Medium,"promo,offer,discount,referral",How to refer friends?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Change Pickup,Low,"booking,ride,schedule",How to book a ride?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Payment Methods,Medium,"payment,refund,wallet,credit card",What payment methods do you accept?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Driver,Low,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Profile,Medium,"account,password,login,profile",How to update profile info?
+What are the support hours?,Support is available from 8 AM to 10 PM daily.,Support,Feedback,Medium,"support,report,feedback,help",Where to send feedback?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,Notifications,Low,"app,crash,bug,notification",How to enable notifications?
+How do I check my referral status?,Track your referral rewards in the 'Referrals' section.,Promotions,Promo Codes,High,"promo,offer,discount,referral",How to refer friends?
+How do I book a ride?,"To book a ride, open the app, enter your destination, and tap 'Book'.",Booking,Ride Booking,High,"booking,ride,schedule",How to change pickup location?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Payment Methods,High,"payment,refund,wallet,credit card",How to get a refund?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Safety,High,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Profile,Medium,"account,password,login,profile",How to update profile info?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Report Issue,Medium,"support,report,feedback,help",How to report a problem?
+How to enable push notifications?,Enable push notifications in your device settings under app permissions.,App Issues,App Crashes,High,"app,crash,bug,notification",Why does my app crash?
+How to use promo codes?,Apply promo codes at checkout to get discounts on your rides.,Promotions,Referral,Low,"promo,offer,discount,referral",What offers are available?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Change Pickup,Medium,"booking,ride,schedule",How to change pickup location?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Refunds,Medium,"payment,refund,wallet,credit card",How to add a payment method?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Safety,High,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Password,Low,"account,password,login,profile",How to update profile info?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Feedback,High,"support,report,feedback,help",How to report a problem?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,Notifications,Medium,"app,crash,bug,notification",How to enable notifications?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Promo Codes,Medium,"promo,offer,discount,referral",How to refer friends?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Change Pickup,Low,"booking,ride,schedule",How to cancel a ride?
+What payment methods are accepted?,"We accept credit cards, debit cards, and mobile wallets like Apple Pay and Google Pay.",Payment,Add Payment Method,Low,"payment,refund,wallet,credit card",What payment methods do you accept?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Vehicle,Medium,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How to update my profile information?,Update your profile information by navigating to 'Profile' in the app.,Account,Password,Medium,"account,password,login,profile",How to reset my password?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Feedback,Low,"support,report,feedback,help",How to report a problem?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,Login Issues,High,"app,crash,bug,notification",How to enable notifications?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Promo Codes,Low,"promo,offer,discount,referral",How to use promo codes?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Change Pickup,High,"booking,ride,schedule",How to book a ride?
+What payment methods are accepted?,"We accept credit cards, debit cards, and mobile wallets like Apple Pay and Google Pay.",Payment,Refunds,High,"payment,refund,wallet,credit card",How to add a payment method?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Driver,Medium,"driver,vehicle,delay,safety",How to report a safety issue?
+What to do if I cannot login?,"If you cannot login, try resetting your password or contact support.",Account,Login,High,"account,password,login,profile",How to update profile info?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Feedback,High,"support,report,feedback,help",How to contact support?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,App Crashes,Low,"app,crash,bug,notification",How to fix login issues?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Promo Codes,Low,"promo,offer,discount,referral",How to refer friends?
+How can I cancel a ride?,"To cancel a ride, go to your bookings and select 'Cancel Ride'.",Booking,Ride Booking,Low,"booking,ride,schedule",How to book a ride?
+How can I add a payment method?,You can add a payment method in the 'Payments' section of the app settings.,Payment,Add Payment Method,Medium,"payment,refund,wallet,credit card",How to get a refund?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Driver,High,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How to update my profile information?,Update your profile information by navigating to 'Profile' in the app.,Account,Login,Low,"account,password,login,profile",How to update profile info?
+Is there a live chat support?,"Yes, live chat support is available 24/7 within the app.",Support,Contact Support,Low,"support,report,feedback,help",How to report a problem?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,Login Issues,Medium,"app,crash,bug,notification",Why does my app crash?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Referral,Low,"promo,offer,discount,referral",What offers are available?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Change Pickup,High,"booking,ride,schedule",How to change pickup location?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Refunds,Low,"payment,refund,wallet,credit card",What payment methods do you accept?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Vehicle,Medium,"driver,vehicle,delay,safety","My driver is late, what to do?"
+How can I reset my password?,Reset your password from the 'Forgot Password' link on the login screen.,Account,Login,Medium,"account,password,login,profile",How to reset my password?
+Is there a live chat support?,"Yes, live chat support is available 24/7 within the app.",Support,Contact Support,High,"support,report,feedback,help",How to report a problem?
+How to fix login issues?,Fix login issues by clearing app cache or reinstalling the app.,App Issues,App Crashes,Medium,"app,crash,bug,notification",Why does my app crash?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Referral,High,"promo,offer,discount,referral",How to refer friends?
+Is it possible to schedule a ride in advance?,"Yes, you can schedule a ride in advance from the 'Schedule' tab.",Booking,Change Pickup,Low,"booking,ride,schedule",How to book a ride?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Payment Methods,Low,"payment,refund,wallet,credit card",How to add a payment method?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Driver,High,"driver,vehicle,delay,safety","My driver is late, what to do?"
+What to do if I cannot login?,"If you cannot login, try resetting your password or contact support.",Account,Login,Low,"account,password,login,profile",How to update profile info?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Feedback,High,"support,report,feedback,help",How to contact support?
+How to enable push notifications?,Enable push notifications in your device settings under app permissions.,App Issues,Notifications,Low,"app,crash,bug,notification",How to fix login issues?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Offers,High,"promo,offer,discount,referral",How to refer friends?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Change Pickup,High,"booking,ride,schedule",How to change pickup location?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Add Payment Method,Medium,"payment,refund,wallet,credit card",How to get a refund?
+What to do if the driver is rude?,"If the driver is rude, report them through the app so we can take action.",Ride Issues,Safety,Low,"driver,vehicle,delay,safety","My driver is late, what to do?"
+What to do if I cannot login?,"If you cannot login, try resetting your password or contact support.",Account,Password,Medium,"account,password,login,profile",How to change my email?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Feedback,Low,"support,report,feedback,help",How to report a problem?
+How to update the app?,Update the app from the Google Play Store or Apple App Store.,App Issues,Login Issues,Low,"app,crash,bug,notification",How to enable notifications?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Referral,High,"promo,offer,discount,referral",How to refer friends?
+What happens if I miss my ride?,"If you miss your ride, please book a new one.",Booking,Change Pickup,Low,"booking,ride,schedule",How to change pickup location?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Add Payment Method,Low,"payment,refund,wallet,credit card",How to get a refund?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Safety,Low,"driver,vehicle,delay,safety",How to report a safety issue?
+How do I delete my account?,"To delete your account, please contact customer support directly.",Account,Profile,Low,"account,password,login,profile",How to update profile info?
+How to contact support?,You can contact support via the in-app chat or email support@rideapp.com.,Support,Feedback,High,"support,report,feedback,help",How to contact support?
+How to enable push notifications?,Enable push notifications in your device settings under app permissions.,App Issues,App Crashes,Low,"app,crash,bug,notification",How to enable notifications?
+How to refer friends and earn rewards?,Refer friends via the referral link to earn ride credits.,Promotions,Referral,Low,"promo,offer,discount,referral",How to use promo codes?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Change Pickup,High,"booking,ride,schedule",How to cancel a ride?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Payment Methods,Medium,"payment,refund,wallet,credit card",How to get a refund?
+Can I change drivers during a ride?,"Currently, you cannot change drivers during an ongoing ride.",Ride Issues,Safety,Medium,"driver,vehicle,delay,safety",How to report a safety issue?
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Login,Low,"account,password,login,profile",How to reset my password?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Report Issue,High,"support,report,feedback,help",How to contact support?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,Login Issues,Medium,"app,crash,bug,notification",How to enable notifications?
+What offers are available right now?,Check the 'Offers' tab for current promotions.,Promotions,Referral,Low,"promo,offer,discount,referral",How to use promo codes?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Change Pickup,Low,"booking,ride,schedule",How to cancel a ride?
+How do I get a refund?,Refunds are processed within 5-7 business days after verification.,Payment,Refunds,Medium,"payment,refund,wallet,credit card",How to get a refund?
+"My driver is late, what should I do?","If your driver is late, you may cancel the ride or contact support for assistance.",Ride Issues,Vehicle,Low,"driver,vehicle,delay,safety",How to report a safety issue?
+How to update my profile information?,Update your profile information by navigating to 'Profile' in the app.,Account,Login,High,"account,password,login,profile",How to change my email?
+Where can I send feedback?,Send feedback using the 'Feedback' form available in the app.,Support,Contact Support,Low,"support,report,feedback,help",How to contact support?
+Why does my app crash frequently?,App crashes may be due to outdated software; please update your app.,App Issues,App Crashes,High,"app,crash,bug,notification",Why does my app crash?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Offers,Low,"promo,offer,discount,referral",What offers are available?
+Can I change my pickup location after booking?,You can change your pickup location from the ride details before the driver arrives.,Booking,Change Pickup,Medium,"booking,ride,schedule",How to book a ride?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Add Payment Method,High,"payment,refund,wallet,credit card",How to get a refund?
+Can I change drivers during a ride?,"Currently, you cannot change drivers during an ongoing ride.",Ride Issues,Vehicle,High,"driver,vehicle,delay,safety",What if the vehicle is not clean?
+How do I change my email address?,You can update your email address in 'Account Settings'.,Account,Password,High,"account,password,login,profile",How to update profile info?
+What are the support hours?,Support is available from 8 AM to 10 PM daily.,Support,Report Issue,Low,"support,report,feedback,help",How to contact support?
+Why am I not receiving ride alerts?,"If you don't receive ride alerts, check your notification settings.",App Issues,Login Issues,Medium,"app,crash,bug,notification",Why does my app crash?
+How to use promo codes?,Apply promo codes at checkout to get discounts on your rides.,Promotions,Referral,Low,"promo,offer,discount,referral",How to use promo codes?
+Is it possible to schedule a ride in advance?,"Yes, you can schedule a ride in advance from the 'Schedule' tab.",Booking,Cancel Ride,Medium,"booking,ride,schedule",How to change pickup location?
+Why was my payment declined?,"If your payment was declined, please check your card details or try another method.",Payment,Add Payment Method,Medium,"payment,refund,wallet,credit card",What payment methods do you accept?
+How to report a safety issue?,"To report a safety issue, use the 'Report' button in your ride history.",Ride Issues,Safety,High,"driver,vehicle,delay,safety",How to report a safety issue?
+How to update my profile information?,Update your profile information by navigating to 'Profile' in the app.,Account,Profile,High,"account,password,login,profile",How to reset my password?
+How do I report an issue with the app?,Report app issues through the 'Help' section in the app settings.,Support,Contact Support,Medium,"support,report,feedback,help",Where to send feedback?
+How to enable push notifications?,Enable push notifications in your device settings under app permissions.,App Issues,Notifications,Medium,"app,crash,bug,notification",How to enable notifications?
+Can I combine multiple promo codes?,Multiple promo codes cannot be combined in a single ride.,Promotions,Offers,Low,"promo,offer,discount,referral",How to use promo codes?
+How do I book a ride?,"To book a ride, open the app, enter your destination, and tap 'Book'.",Booking,Ride Booking,High,"booking,ride,schedule",How to cancel a ride?
+Can I use promo codes on my payment?,Promo codes can be applied at checkout before confirming payment.,Payment,Add Payment Method,Low,"payment,refund,wallet,credit card",How to add a payment method?
+Can I change drivers during a ride?,"Currently, you cannot change drivers during an ongoing ride.",Ride Issues,Driver,Medium,"driver,vehicle,delay,safety",How to report a safety issue?
+How to update my profile information?,Update your profile information by navigating to 'Profile' in the app.,Account,Login,High,"account,password,login,profile",How to change my email?

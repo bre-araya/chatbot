@@ -1,0 +1,4 @@
+chatbot/model_assets/ridex_chatbot_models/* filter=lfs diff=lfs merge=lfs -text
+chatbot/model_assets/ridex_chatbot_models/intent_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+chatbot/model_assets/ridex_chatbot_models/qa_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
