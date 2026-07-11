@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "../styles/SignupForm.css";
 
-function SignupForm({ onSuccess = () => {} }) {
+function SignupForm({ onSuccess = () => {}, switchToLogin, onClose }) {
   const [form, setForm] = useState({ username: "", email: "", password: "" });
   const [error, setError] = useState("");
   const [success, setSuccess] = useState("");
@@ -23,28 +23,59 @@ function SignupForm({ onSuccess = () => {} }) {
 
     if (res.ok) {
       setSuccess("Signup successful! Please login now.");
-      onSuccess(); // trigger parent action if needed
+      onSuccess();
+      if (switchToLogin) switchToLogin();
     } else {
       setError(data.error || "Signup failed. Try again.");
     }
   };
 
   return (
-    <form onSubmit={handleSubmit} className="signup-form">
-      <h3>Sign Up</h3>
-      <input name="username" placeholder="Username" onChange={handleChange} />
-      <input name="email" placeholder="Email" onChange={handleChange} />
-      <input
-        type="password"
-        name="password"
-        placeholder="Password"
-        onChange={handleChange}
-      />
-      <button type="submit">Sign Up</button>
+    <div className="auth-form">
+      <div className="auth-form-header">
+        <div>
+          <h2>Create your account</h2>
+          <p>Sign up to unlock AI support for every ride.</p>
+        </div>
+        <button className="close-btn" onClick={onClose} type="button">
+          ✕
+        </button>
+      </div>
+
+      <form onSubmit={handleSubmit} className="auth-form-body">
+        <input
+          name="username"
+          placeholder="Username"
+          value={form.username}
+          onChange={handleChange}
+          required
+        />
+        <input
+          name="email"
+          type="email"
+          placeholder="Email"
+          value={form.email}
+          onChange={handleChange}
+          required
+        />
+        <input
+          type="password"
+          name="password"
+          placeholder="Password"
+          value={form.password}
+          onChange={handleChange}
+          required
+        />
+        <button type="submit">Create account</button>
+      </form>
 
       {success && <p className="success">{success}</p>}
       {error && <p className="error">{error}</p>}
-    </form>
+
+      <p className="switch-line">
+        Already have an account? <span className="link" onClick={switchToLogin}>Login</span>
+      </p>
+    </div>
   );
 }
 

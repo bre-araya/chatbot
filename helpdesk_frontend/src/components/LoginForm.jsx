@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 import "../styles/LoginForm.css";
+
 const LoginForm = ({ onSuccess, switchToSignup, onClose }) => {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
@@ -11,20 +12,15 @@ const LoginForm = ({ onSuccess, switchToSignup, onClose }) => {
     setError("");
 
     try {
-      // Call Django login API
       const res = await axios.post("http://127.0.0.1:8000/api/accounts/login/", {
         username,
         password,
       });
 
-      // Store JWT tokens
       localStorage.setItem("access_token", res.data.access);
       localStorage.setItem("refresh_token", res.data.refresh);
 
-      // Trigger LandingPage to show chatbot
       onSuccess();
-
-      // Close login modal
       onClose();
     } catch (err) {
       setError("Invalid username or password");
@@ -33,8 +29,17 @@ const LoginForm = ({ onSuccess, switchToSignup, onClose }) => {
 
   return (
     <div className="auth-form">
-      <h2>Login</h2>
-      <form onSubmit={handleSubmit}>
+      <div className="auth-form-header">
+        <div>
+          <h2>Welcome back</h2>
+          <p>Login to continue your smart ride support experience.</p>
+        </div>
+        <button className="close-btn" onClick={onClose} type="button">
+          ✕
+        </button>
+      </div>
+
+      <form onSubmit={handleSubmit} className="auth-form-body">
         <input
           type="text"
           placeholder="Username"
@@ -53,13 +58,9 @@ const LoginForm = ({ onSuccess, switchToSignup, onClose }) => {
         <button type="submit">Login</button>
       </form>
 
-      <p>
-        Don’t have an account?{" "}
-        <span className="link" onClick={switchToSignup}>
-          Sign up
-        </span>
+      <p className="switch-line">
+        Don’t have an account? <span className="link" onClick={switchToSignup}>Sign up</span>
       </p>
-      <button className="close-btn" onClick={onClose}>✖</button>
     </div>
   );
 };
